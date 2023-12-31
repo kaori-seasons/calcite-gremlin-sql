@@ -34,8 +34,6 @@ import java.util.concurrent.Executors;
 
 /**
  * This module is a GremlinSql equivalent of Calcite's SqlSelect for a JOIN operation.
- *
- * @author Lyndon Bauto (lyndonb@bitquilltech.com)
  */
 public class GremlinSqlSelectMulti extends GremlinSqlSelect {
     // Multi is a JOIN.
